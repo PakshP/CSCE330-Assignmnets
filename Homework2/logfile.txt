@@ -1,0 +1,15 @@
+[1mtrue.[0m
+
+?- west_of(spadina, st_george).
+
+
+[1;31mfalse.[0m
+
+?- west_of(yonge, bay).
+
+
+[1;31mfalse.[0m
+
+?- noprotocol.
+
+
